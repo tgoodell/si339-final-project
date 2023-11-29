@@ -1,5 +1,5 @@
 <template>
-    <main>
+    <main class="default-container">
         <ContentDoc />
     </main>
 </template>
