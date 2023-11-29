@@ -1,0 +1,24 @@
+---
+title: 'The Modernization of Sherlock Holmes'
+description: ''
+date: '2020-12-01'
+tags: ['Sherlock Holmes']
+---
+
+The adventures of Sherlock Holmes are timeless because they can be modified to appeal to any audience. The British Broadcasting Company's (BBC) "The Hounds of Baskerville" modernizes Sir Arthur Conan Doyle's "The Hound of the Baskervilles" by updating elements of the story that mostly appealed to Victorian audiences. Specifically, *Sherlock* exploits modern superstitions and adapts its protagonist and antagonist to appeal to modern audiences. 
+
+<!--more-->
+
+The BBC adaptation and the original book both appeal to the superstitions their audiences have to captivate their audiences, only to subvert their expectations in a twist. Sherlock exploits the modern appeal of conspiracy theories and the fear of military research. Thanks to its depictions in popular culture, the general public is wary of military experimentation and research. So, as the audience begins to unravel the mystery and believe that Henry Knight may not actually be crazy, the audience is engaged because they expect Sherlock Holmes to expose a real government conspiracy. Similarly, Sir Doyle takes advantage of the superstitions that lie in his Victorian audience. The audience is led to believe there may actually be a supernatural hound at the same time Mortimer begins to also fear that the hound is real. In the end, this supernatural phenomenon is uncovered as being caused by Stapleton in a bid to seize the Baskerville fortune. Likewise, *Sherlock’s* interpretation of the story shows that there was no large scale government conspiracy: it was all perpetrated by Dr. Bob Frankland. Both interpretations of the story take advantage of the superstitions and fears of their audiences and adapt their story accordingly. 
+
+In addition to exploiting the superstitions and fears of the audience, both interpretations also shape Henry to be more appealing to the modern and Victorian audience respectively. On the surface, *Sherlock’s* Henry Knight and Doyle’s Sir Henry could not be any more different. Henry Knight is a coward who has gone to therapy for years and is mentally fragile while Sir Henry is an outstanding British gentleman who made a life for himself in Canada. Despite this, both characters are constructed to appeal to their respective audiences. Modern audiences pity Henry Knight. As such, they want Sherlock to solve the case so his years of PTSD and torment can come to an end. Sir Henry, on the other hand, has characteristics that specifically entice Victorian readers. Specifically, Sir Henry’s status as an honorable gentleman makes readers want Holmes to solve the case so he can continue Sir Charles’ legacy of philanthropy in Dartmoor. In these ways, the BBC and Doyle mold Henry’s character to better entice their respective audiences. 
+
+The motives of the villain in *Sherlock* and Doyle’s original book are fundamentally different. In Sherlock, Dr. Bob Frankland wants to keep his continued experimentation with project H.O.U.N.D a secret, so he deploys the dangerous bioweapon on Henry Knight so he slowly goes insane. As a result, Frankland discredits everything Henry Knight says. However, in the original book, Stapleton wants to murder Sir Henry so he can seize the Baskerville fortune. Additionally, the methods of execution were different. Frankland forced Henry Knight to hallucinate the hound that supposedly killed his father. Every episode of hallucination deteriorated Knight’s mental state as he was slowly driven insane and eventually attempted suicide. In Doyle’s story, Stapleton recreates the hound from the legend by starving a dog and using phosphorus paste to make the dog look like it is breathing fire. These changes were made to increase the appeal for the modern audience. Someone trying to steal an inheritance is simply not as appealing as a military scientist covering up dangerous experimentation to most viewers. Similarly, a gigantic hallucinated hound is more exciting than a dog with phosphorus paste. 
+
+All in all, *Sherlock* changes key elements of Doyle’s “The Hound of the Baskervilles” to appeal to modern tastes. Despite the differences between the original and the modern retelling, both stories exhibit the same themes and strive to appeal to their respective audiences. 
+
+## Works Cited
+
+Doyle, Arthur Conan. “The Hound of the Baskervilles.” *Sherlock Holmes: the Complete Novels and Stories*, by Arthur Conan Doyle, vol. 2, Bantam Books, 1986, pp. 1 –160. 
+
+Gatiss, Mark, and Sue Vertue. “The Hounds of Baskerville.” *Sherlock*, season 2, episode 2, BBC, 8 Jan. 2012. 

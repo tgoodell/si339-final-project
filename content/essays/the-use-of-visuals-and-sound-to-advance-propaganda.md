@@ -1,0 +1,24 @@
+---
+title: 'The Use of Visuals and Sound to Advance Propaganda'
+description: ''
+date: '2021-02-08'
+tags: ['Southern Literature']
+---
+
+In the opening of the 1939 film *Gone with the Wind*, the director uses color, sound, music, lighting, and other visuals to perpetuate elements of the Lost Cause. Specifically, these production decisions reinforce the belief that Southern plantations were an evolution of European feudalism. Visually, this is communicated superbly to audiences by using on-screen text matched by epic orchestral music. 
+
+<!--more-->
+
+> There was a land of Cavaliers and Cotton Fields called the Old South... Here in this  pretty world Gallantry took its last bow. Here was the last ever to be seen of Knights and their Ladies Fair, of Master and of Slave... Look for it only in books for it is no more than a dream remembered. A Civilization gone with the wind...
+
+Paired with the beautiful chorus music as a long line of presumed enslaved people pass by on horses, this paragraph is incredibly powerful. The director refers to Southern men as knights twice and imbues an almost legendary aspect to the South. To him, the Old South was the last stand of European chivalry, not just Southern values. The presence of trumpets at the beginning adds to this connection between the Old and South and Europe. By referring to this fictitious South as “old”, the director further supports his argument that the Old South was a utopian evolution of old European values from long ago. To solidify this connection between European chivalry and the Old South, the director showcases the grand plantation home, first from afar and then close up, to highlight the Roman Columns at the front. Since the South was considered to be devoid of culture and rich history at this time, the director attempts to link the Old South and the Roman Empire to establish a false connection to the great ancient world. 
+
+Ironically, these grand Roman Columns betray the director’s intentions and reveal the utter lack of any connection to the great empires of yesteryear. In the film, the grand Roman Columns are clean and white. In reality, the columns of the Roman Empire were colorfully painted. Despite this infraction, white is key to understanding the director’s intentions. 
+
+In color theory, white represents purity and innocence. Hence, the director places the lady in a clean, white dress. Additionally, white represents cotton. Since cotton was vital to the Old South, the director appropriately displays a field of cotton in the introduction. We also hear a group of enslaved children playing around the plantation and laughing to portray them as happy and content with life. Additionally, dozens of slaves are shown to be working in the cotton fields while a beautifully orchestrated soundtrack plays. Despite its beauty, this soundtrack is key to misleading the audience and advancing the director’s goals. 
+
+The orchestrated soundtrack instills a sense of grandeur and peacefulness. This, coupled with the scenes of nature— horses, bodies of water, cherry blossoms, and trees—, echos the sentiments in the Southern Agrarians’ I’ll Take My Stand introduction. Nature is vital to Southern tradition. To the old guard, the Old South was a better and simpler time, a time before, “\\[w]e receive\\[d] the illusion of having power over nature, and lose the sense of nature as something mysterious and contingent.” 
+
+Finally, the sunset in the introduction embodies the end of the Old South. The beautiful shades of orange, red, and yellow are magnificent, but they soon vacate the sky. Similarly, the directory believes that the chivalrous and pure Old South will be destroyed as the last bastion of proper European values soon. The sunset also allows for the slaves, trees, and livestock to become mere silhouettes in front of the warm, orange sky. This creative decision by the director could be likening the enslaved people to cattle, commenting on the insignificance of humanity in the face of nature, or both. 
+
+The director’s use of color, sound, music, lighting, and other visuals in the introduction of Gone with the Wind advances the fictitious narrative of the Old South. The South was never truly an evolution of European feudalism. There were never any knights or serfs, and the South never had any tangible connection to the grand empires in the distant past. Above all, these creative decisions were made to mislead the public. Consequently, Gone with the Wind is a dangerous piece of propaganda. It presents the Old South as a utopia while misconstruing facts and ignoring the horrors of reality. 
