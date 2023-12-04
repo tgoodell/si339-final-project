@@ -135,15 +135,16 @@ li {
 
 .more-and-tags {
     display: grid;
-    grid-template-columns: auto auto;
+    grid-template-columns: 1fr;
 }
 
 .tags {
     grid-column: 1 / 1;
+    margin-bottom: 8px;
 }
 
 .read-more {
-    grid-column: 2 / 2;
+    grid-column: 1 / 1;
     text-align: right;
 }
 
@@ -183,5 +184,18 @@ footer hr {
 @media (min-width: 80ch) {
     .default-container {
         margin: auto;
+    }
+
+    .more-and-tags {
+        grid-template-columns: auto auto;
+    }
+    
+    .tags {
+        grid-column: 1 / 1;
+        margin: auto;
+    }
+    
+    .read-more {
+        grid-column: 2 / 2;
     }
 }
