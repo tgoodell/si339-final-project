@@ -1,7 +1,11 @@
 :root {
     --asmsa-blue: #003969;
     --asmsa-gold: #f9b450;
-    --asmsa-blue-alternative: #003764;
+    --poppy: #D64045;
+    --poppy-emphasis: #76191c;
+    --periwinkle: #C4C6E7;
+    --viridian: #53917E;
+    --viridian-emphasis: #254139;
 }
 
 body {
@@ -17,11 +21,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-    font-size: 2em;
+    font-size: 3em;
+    text-align: center; 
+    margin-bottom: 5px;
 }
 
 h2 {
     font-size: 1.5em;
+    margin-bottom: 5px; 
 }
 
 h3 {
@@ -43,39 +50,43 @@ h6 {
 /* Navbar */
 
 nav {
-    background-color: var(--asmsa-blue);
+    text-align: center;
 }
 
 nav ul {
     padding: 1em;
-    text-align: right;
+    border: 3px dotted var(--periwinkle);
+    margin: 0 0 1em 0; 
 }
 
 nav ul li {
     display: inline;
 }
 
-nav ul li:first-child {
-    float: left;
-}
-
 nav ul li a {
-    color: var(--asmsa-gold);
+    color: var(--poppy);
     padding: 1em;
 }
 
 nav ul li a:hover {
     background-color: var(--asmsa-gold);
+    color: var(--poppy-emphasis);
 }
 
 .header-logo {
-    height: 2em;
+    height: 10em;
 }
 
 /* Links */
 
 a {
     text-decoration: underline;
+    color: var(--poppy);
+}
+
+a:hover {
+    color: var(--poppy-emphasis);
+    transition: 0.7s;
 }
 
 /* Body Text Styling */
@@ -85,7 +96,21 @@ p {
 }
 
 blockquote {
-    margin-left: 2em;
+    padding-left: 1em;
+    border-left: 0.5em solid var(--periwinkle);
+}
+
+hr {
+    border: 3px solid var(--periwinkle);
+    margin: 10px 0;
+}
+
+i {
+    font-style: italic;
+}
+
+b {
+    font-weight: bold;
 }
 
 .default-container {
@@ -93,10 +118,64 @@ blockquote {
     margin: auto;
 }
 
+.post-preview {
+    margin: 0 0 3em 0;
+}
+
+.post-header {
+    text-align: center;
+}
+
+li {
+    list-style: circle;
+    margin-left: 1em;
+}
+
+/* Tags and Read More */
+
+.more-and-tags {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.tags {
+    grid-column: 1 / 1;
+}
+
+.read-more {
+    grid-column: 2 / 2;
+    text-align: right;
+}
+
+.tag {
+    text-align: center;
+    text-decoration: none;
+    background-color: var(--viridian);
+    color: #fff;
+    padding: 5px;
+    margin: 0 5px 0 0;
+}
+
+.tag:hover {
+    background-color: var(--viridian-emphasis);
+    color: #fff;
+}
+
 /* Footer */
 
 footer {
     text-align: center;
-    background-color: var(--asmsa-blue);
-    color: var(--asmsa-gold);
+    color: var(--viridian);
+}
+
+footer hr {
+    width: 3em;
+    margin: 1em auto;
+}
+
+/* 404 Page */
+
+.error404 {
+    text-align: center;
+    margin: 5em 0;
 }

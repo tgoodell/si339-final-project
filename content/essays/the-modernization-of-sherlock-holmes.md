@@ -2,7 +2,7 @@
 title: 'The Modernization of Sherlock Holmes'
 description: ''
 date: '2020-12-01'
-tags: ['Sherlock Holmes']
+tags: ['Essay', 'Sherlock Holmes', 'Movie']
 ---
 
 The adventures of Sherlock Holmes are timeless because they can be modified to appeal to any audience. The British Broadcasting Company's (BBC) "The Hounds of Baskerville" modernizes Sir Arthur Conan Doyle's "The Hound of the Baskervilles" by updating elements of the story that mostly appealed to Victorian audiences. Specifically, *Sherlock* exploits modern superstitions and adapts its protagonist and antagonist to appeal to modern audiences. 

@@ -2,7 +2,7 @@
 title: 'The Role of Police Detectives in Victorian British Society'
 description: ''
 date: '2020-09-24'
-tags: ['Sherlock Holmes']
+tags: ['Essay', 'Sherlock Holmes', 'Victorian Era', 'Policing']
 ---
 
 In Sir Arthur Conan Doyle’s “A Study in Scarlet,” detectives Gregson and Lestrade are portrayed as celebrities— heroes of sensational crime stories in the papers. Through Doyle’s exquisite use of amateur detective Sherlock Holmes as a foil to the Scotland Yarders, he exposes London’s detective force’s shortcomings in a hope to enact change. Doyle’s portrayal of Gregson and Lestrade demonstrates that Britons are misled by the papers regarding the exploits of London’s detectives. In reality, the adventures of detectives are a bit more complicated. 

@@ -13,7 +13,8 @@
           </div>
           <hr>
           <ContentRenderer :value="doc" class="post-body" />
-          <!-- <TagCards :tags="doc.tags" style="text-align: center" /> -->
+          <hr>
+          <TagCards :tags="doc.tags" style="text-align: center" />
         </article>
       </template>
       <template #not-found>

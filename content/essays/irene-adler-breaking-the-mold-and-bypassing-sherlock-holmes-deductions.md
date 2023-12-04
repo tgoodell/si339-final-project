@@ -2,7 +2,7 @@
 title: 'Irene Adler Breaking the Mold and Bypassing Sherlock Holmes’ Deductions'
 description: ''
 date: '2020-10-19'
-tags: ['Sherlock Holmes']
+tags: ['Essay', 'Sherlock Holmes', 'Victorian Era', 'Gender']
 ---
 
 Sherlock Holmes’ deductions depend on the stereotypes of different groups of people and the peculiarities and patterns presented in previous cases. While this method has its merits, it falls short when these assumptions are challenged and proved wholly incorrect. In Sir Arthur Conan Doyle’s *A Scandal in Bohemia*, Sherlock Holmes makes this fatal mistake and ultimately loses in a battle of wits against Irene Adler. 

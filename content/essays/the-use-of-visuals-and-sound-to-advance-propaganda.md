@@ -2,7 +2,7 @@
 title: 'The Use of Visuals and Sound to Advance Propaganda'
 description: ''
 date: '2021-02-08'
-tags: ['Southern Literature']
+tags: ['Essay', 'Southern Literature', 'Movie', 'Propaganda']
 ---
 
 In the opening of the 1939 film *Gone with the Wind*, the director uses color, sound, music, lighting, and other visuals to perpetuate elements of the Lost Cause. Specifically, these production decisions reinforce the belief that Southern plantations were an evolution of European feudalism. Visually, this is communicated superbly to audiences by using on-screen text matched by epic orchestral music. 

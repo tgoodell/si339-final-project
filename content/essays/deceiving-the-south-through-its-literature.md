@@ -2,7 +2,7 @@
 title: 'Deceiving the South through its Literature'
 description: ''
 date: '2021-01-21'
-tags: ['Southern Literature']
+tags: ['Essay', 'Southern Literature', 'Propaganda']
 ---
 
 John Kennedy’s book *Swallow Barn* was an effective “antidote to the abolition mischief” and ultimately deceived the South. Kennedy portrays the plantation as an evolution of feudalism, depicts plantation life as mutually beneficial and positive for everyone, and diminishes the humanity of enslaved persons. By misinforming the South, Kennedy contributes to the continuation of the institution of American slavery and leads to the American Civil War. 
